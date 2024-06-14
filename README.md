@@ -2,11 +2,22 @@
 
 ![image](https://github.com/idaMakelaWork/ohmyzshtheme/assets/158064841/526ef326-5fcc-4a0c-bdd1-9f5f51490170)
 
-Changed color and minor styling for the terminal interface for oh-my-zsh theme refined. 
+Updated color and styling for oh-my-zsh theme refined.
 
-It was originally taken from `.oh-my-zsh/theme/refined.zsh-theme` made by [Gauthier Delacroix](https://github.com/gdlx).
+The theme was originally taken from `.oh-my-zsh/theme/refined.zsh-theme` made by [Gauthier Delacroix](https://github.com/gdlx).
 
 Changes implemented by [Ida Mäkelä](https://github.com/idamakela).
 
----
-**MIT License**
+
+## License
+
+This project includes code from [Original Project Name], which is licensed under the MIT License.
+
+Modifications and new code are also licensed under the MIT License.
+
+For more details, see the LICENSE file.
+
+
+## Acknowledgements
+
+- [oh-my-zsh contributors](https://github.com/ohmyzsh/ohmyzsh)
