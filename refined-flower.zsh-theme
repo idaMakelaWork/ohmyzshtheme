@@ -9,8 +9,10 @@
 #
 # - Ida Mäkelä, GitHub: https://github.com/idamakela
 #
-#
-# MIT License
+# ------------------------------------------------------------------------------
+# Original code from oh-my-zsh
+# Copyright (c) 2009-2022 Robby Russell and contributors (https://github.com/ohmyzsh/ohmyzsh/contributors)
+# Licensed under the MIT License. See LICENSE file in the project root for full license information.
 # ------------------------------------------------------------------------------
 
 # Set required options
