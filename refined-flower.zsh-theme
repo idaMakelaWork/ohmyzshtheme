@@ -2,22 +2,15 @@
 
 # ------------------------------------------------------------------------------
 #
-# Pure - A minimal and beautiful theme for oh-my-zsh
+# Refined-flower - a pretty and minimal theme for oh-my-zsh
 #
-# Based on the custom Zsh-prompt of the same name by Sindre Sorhus. A huge
-# thanks goes out to him for designing the fantastic Pure prompt in the first
-# place! I'd also like to thank Julien Nicoulaud for his "nicoulaj" theme from
-# which I've borrowed both some ideas and some actual code. You can find out
-# more about both of these fantastic two people here:
+# Based on oh-my-zsh/theme/refined.zsh-theme by Gauthier Delacroix. Minor changes
+# implemented changing color and adding an icon 🌸
 #
-# Sindre Sorhus
-#   GitHub:   https://github.com/sindresorhus
-#   Twitter:  https://twitter.com/sindresorhus
+# - Ida Mäkelä, GitHub: https://github.com/idamakela
 #
-# Julien Nicoulaud
-#   GitHub:   https://github.com/nicoulaj
-#   Twitter:  https://twitter.com/nicoulaj
 #
+# MIT License
 # ------------------------------------------------------------------------------
 
 # Set required options
