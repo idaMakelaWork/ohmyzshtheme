@@ -11,7 +11,7 @@ Changes implemented by [Ida Mäkelä](https://github.com/idamakela).
 
 ## License
 
-This project includes code from [Original Project Name], which is licensed under the MIT License.
+This project includes code from oh-my-zsh, licensed under the MIT License.
 
 Modifications and new code are also licensed under the MIT License.
 
